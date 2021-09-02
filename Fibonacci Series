@@ -1,3 +1,7 @@
+//Test step:
+
+//1) Run this code in Background script  ---> search "scripts - backgrond" in application navigator 
+
 var n1=0,n2=1,n3; 
 var no_limit = 15   // Change the Limit value till which you want the Fibonacci Series
 for(var i=2;i<no_limit;i++)//loop starts from 2 because 0 and 1 are already printed   
